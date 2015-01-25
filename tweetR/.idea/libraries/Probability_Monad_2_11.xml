@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Probability Monad 2_11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/probability-monad_2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

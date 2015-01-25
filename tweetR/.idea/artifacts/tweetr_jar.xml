@@ -1,0 +1,59 @@
+<component name="ArtifactManager">
+  <artifact name="tweetr:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tweetrServer</output-path>
+    <root id="root">
+      <element id="archive" name="tweetr.jar">
+        <element id="module-output" name="tweetr" />
+      </element>
+      <element id="library" level="project" name="SBT: com.google.guava:guava:12.0:jar" />
+      <element id="library" level="project" name="SBT: org.parboiled:parboiled-core:1.1.6:jar" />
+      <element id="library" level="project" name="SBT: com.google.code.findbugs:jsr305:1.3.9:jar" />
+      <element id="library" level="project" name="SBT: com.typesafe.akka:akka-persistence-experimental_2.11:2.3.6:jar" />
+      <element id="library" level="project" name="SBT: com.chuusai:shapeless_2.11:1.2.4:jar" />
+      <element id="library" level="project" name="SBT: com.typesafe.akka:akka-http-experimental_2.11:0.7:jar" />
+      <element id="library" level="project" name="SBT: org.scala-lang.modules:scala-parser-combinators_2.11:1.0.1:jar" />
+      <element id="library" level="project" name="SBT: com.fasterxml.jackson.core:jackson-databind:2.3.1:jar" />
+      <element id="library" level="project" name="SBT: com.typesafe.akka:akka-parsing-experimental_2.11:0.7:jar" />
+      <element id="library" level="project" name="SBT: io.spray:spray-http_2.11:1.3.2:jar" />
+      <element id="library" level="project" name="SBT: com.typesafe:config:1.2.1:jar" />
+      <element id="library" level="project" name="SBT: org.iq80.leveldb:leveldb:0.5:jar" />
+      <element id="library" level="project" name="SBT: org.parboiled:parboiled-scala_2.11:1.1.6:jar" />
+      <element id="library" level="project" name="SBT: org.scala-lang.modules:scala-xml_2.11:1.0.2:jar" />
+      <element id="library" level="project" name="SBT: io.spray:spray-can_2.11:1.3.2:jar" />
+      <element id="library" level="project" name="SBT: com.typesafe.akka:akka-actor_2.11:2.3.7:jar" />
+      <element id="library" level="project" name="SBT: org.fusesource.leveldbjni:leveldbjni:1.7:jar" />
+      <element id="library" level="project" name="SBT: io.spray:spray-routing_2.11:1.3.2:jar" />
+      <element id="library" level="project" name="SBT: org.json4s:json4s-core_2.11:3.2.11:jar" />
+      <element id="library" level="project" name="SBT: org.jvnet.mimepull:mimepull:1.9.4:jar" />
+      <element id="library" level="project" name="SBT: org.reactivestreams:reactive-streams:0.4.0.M2:jar" />
+      <element id="library" level="project" name="SBT: io.spray:spray-json_2.11:1.3.1:jar" />
+      <element id="library" level="project" name="SBT: com.fasterxml.jackson.core:jackson-core:2.3.1:jar" />
+      <element id="library" level="project" name="SBT: org.fusesource.leveldbjni:leveldbjni-osx:1.5:jar" />
+      <element id="library" level="project" name="SBT: org.fusesource.leveldbjni:leveldbjni-win64:1.5:jar" />
+      <element id="library" level="project" name="SBT: org.fusesource.leveldbjni:leveldbjni-all:1.7:jar" />
+      <element id="library" level="project" name="SBT: org.iq80.leveldb:leveldb-api:0.5:jar" />
+      <element id="library" level="project" name="SBT: com.fasterxml.jackson.core:jackson-annotations:2.3.0:jar" />
+      <element id="library" level="project" name="SBT: org.fusesource.hawtjni:hawtjni-runtime:1.8:jar" />
+      <element id="library" level="project" name="SBT: org.fusesource.leveldbjni:leveldbjni-linux64:1.5:jar" />
+      <element id="library" level="project" name="SBT: org.json4s:json4s-ast_2.11:3.2.11:jar" />
+      <element id="library" level="project" name="SBT: org.fusesource.leveldbjni:leveldbjni-linux32:1.5:jar" />
+      <element id="library" level="project" name="SBT: org.scala-lang:scala-compiler:2.11.0:jar" />
+      <element id="library" level="project" name="SBT: com.typesafe.akka:akka-stream-experimental_2.11:0.7:jar" />
+      <element id="library" level="project" name="SBT: com.typesafe.akka:akka-http-core-experimental_2.11:0.7:jar" />
+      <element id="library" level="project" name="SBT: org.scala-lang:scalap:2.11.0:jar" />
+      <element id="library" level="project" name="SBT: io.spray:spray-client_2.11:1.3.2:jar" />
+      <element id="library" level="project" name="SBT: org.scala-lang:scala-library:2.11.4:jar" />
+      <element id="library" level="project" name="SBT: com.assembla.scala-incubator:graph-core_2.11:1.9.0:jar" />
+      <element id="library" level="module" name="SBT: unmanaged-jars" module-name="tweetr" />
+      <element id="library" level="project" name="SBT: io.spray:spray-httpx_2.11:1.3.2:jar" />
+      <element id="library" level="project" name="SBT: com.google.protobuf:protobuf-java:2.5.0:jar" />
+      <element id="library" level="project" name="SBT: org.fusesource.leveldbjni:leveldbjni-win32:1.5:jar" />
+      <element id="library" level="project" name="SBT: io.spray:spray-util_2.11:1.3.2:jar" />
+      <element id="library" level="project" name="SBT: com.thoughtworks.paranamer:paranamer:2.6:jar" />
+      <element id="library" level="project" name="SBT: io.spray:spray-io_2.11:1.3.2:jar" />
+      <element id="library" level="project" name="SBT: org.scala-lang:scala-reflect:2.11.2:jar" />
+      <element id="library" level="project" name="SBT: org.json4s:json4s-jackson_2.11:3.2.11:jar" />
+      <element id="library" level="project" name="SBT: org.json4s:json4s-native_2.11:3.2.11:jar" />
+    </root>
+  </artifact>
+</component>

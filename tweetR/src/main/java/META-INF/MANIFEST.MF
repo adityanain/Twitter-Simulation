@@ -1,0 +1,41 @@
+Manifest-Version: 1.0
+Class-Path: guava-12.0.jar parboiled-core-1.1.6.jar jsr305-1.3.9.jar a
+ kka-persistence-experimental_2.11-2.3.6.jar shapeless_2.11-1.2.4.jar 
+ akka-http-experimental_2.11-0.7.jar scala-parser-combinators_2.11-1.0
+ .1.jar jackson-databind-2.3.1.jar akka-parsing-experimental_2.11-0.7.
+ jar spray-http_2.11-1.3.2.jar config-1.2.1.jar leveldb-0.5.jar parboi
+ led-scala_2.11-1.1.6.jar scala-xml_2.11-1.0.2.jar spray-can_2.11-1.3.
+ 2.jar akka-actor_2.11-2.3.7.jar leveldbjni-1.7.jar spray-routing_2.11
+ -1.3.2.jar json4s-core_2.11-3.2.11.jar mimepull-1.9.4.jar reactive-st
+ reams-0.4.0.M2.jar spray-json_2.11-1.3.1.jar jackson-core-2.3.1.jar l
+ eveldbjni-osx-1.5.jar leveldbjni-win64-1.5.jar leveldbjni-all-1.7.jar
+  leveldb-api-0.5.jar jackson-annotations-2.3.0.jar hawtjni-runtime-1.
+ 8.jar leveldbjni-linux64-1.5.jar json4s-ast_2.11-3.2.11.jar leveldbjn
+ i-linux32-1.5.jar scala-compiler-2.11.0.jar akka-stream-experimental_
+ 2.11-0.7.jar akka-http-core-experimental_2.11-0.7.jar scalap-2.11.0.j
+ ar spray-client_2.11-1.3.2.jar scala-library-2.11.4.jar graph-core_2.
+ 11-1.9.0.jar hamcrest-core-1.3.jar jfreechart-1.0.19-experimental.jar
+  junit-4.11.jar jcommon-1.0.23.jar swtgraphics2d.jar servlet.jar prob
+ ability-monad_2.11.jar jfreechart-1.0.19.jar jfreesvg-2.0.jar orsonch
+ arts-1.4-eval-nofx.jar orsonpdf-1.6-eval.jar jfreechart-1.0.19-swt.ja
+ r hamcrest-core-1.3.jar jfreechart-1.0.19-experimental.jar junit-4.11
+ .jar jcommon-1.0.23.jar swtgraphics2d.jar servlet.jar probability-mon
+ ad_2.11.jar jfreechart-1.0.19.jar jfreesvg-2.0.jar orsoncharts-1.4-ev
+ al-nofx.jar orsonpdf-1.6-eval.jar jfreechart-1.0.19-swt.jar hamcrest-
+ core-1.3.jar jfreechart-1.0.19-experimental.jar junit-4.11.jar jcommo
+ n-1.0.23.jar swtgraphics2d.jar servlet.jar probability-monad_2.11.jar
+  jfreechart-1.0.19.jar jfreesvg-2.0.jar orsoncharts-1.4-eval-nofx.jar
+  orsonpdf-1.6-eval.jar jfreechart-1.0.19-swt.jar hamcrest-core-1.3.ja
+ r jfreechart-1.0.19-experimental.jar junit-4.11.jar jcommon-1.0.23.ja
+ r swtgraphics2d.jar servlet.jar probability-monad_2.11.jar jfreechart
+ -1.0.19.jar jfreesvg-2.0.jar orsoncharts-1.4-eval-nofx.jar orsonpdf-1
+ .6-eval.jar jfreechart-1.0.19-swt.jar hamcrest-core-1.3.jar jfreechar
+ t-1.0.19-experimental.jar junit-4.11.jar jcommon-1.0.23.jar swtgraphi
+ cs2d.jar servlet.jar probability-monad_2.11.jar jfreechart-1.0.19.jar
+  jfreesvg-2.0.jar orsoncharts-1.4-eval-nofx.jar orsonpdf-1.6-eval.jar
+  jfreechart-1.0.19-swt.jar spray-httpx_2.11-1.3.2.jar protobuf-java-2
+ .5.0.jar leveldbjni-win32-1.5.jar spray-util_2.11-1.3.2.jar paranamer
+ -2.6.jar spray-io_2.11-1.3.2.jar scala-reflect-2.11.2.jar json4s-jack
+ son_2.11-3.2.11.jar json4s-native_2.11-3.2.11.jar
+Main-Class: server.RESTServer
+
